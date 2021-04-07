@@ -6,12 +6,8 @@
 
         <title>Archewell | Compassion in Action</title>
 
-        <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
-        
         <!-- Styles -->
-        <link rel="stylesheet" href="css/app.css">
+        <link rel="stylesheet" href="{{ asset('css/app.css')  }}">
 
         {{-- Favicon --}}
         <link rel="shortcut icon" href="icon.png" type="image/png">
